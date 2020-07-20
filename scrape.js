@@ -10,7 +10,7 @@ const username = process.argv[2]
 if (!username) {
   console.log(
     `
-You didn't supply an Instagram username!!
+You didn't supply an Instagram username!!!
 Run this command like:
 
 node scrape.js INSTAGRAM_USERNAME
